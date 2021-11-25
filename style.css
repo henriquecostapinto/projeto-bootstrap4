@@ -1,0 +1,32 @@
+@media (max-width: 767px) {
+    #botao{
+        margin-top: 10px;
+        position: relative;
+        right: 30px;
+    }
+}
+
+#botao:hover{
+    transition: 1s;
+}
+
+#concatenacao{
+    outline: none;
+}
+
+
+@media (max-width: 863px) {
+    #img-mulher{
+        display: none;
+    }
+}
+
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a{
+    margin: 5px 15px;
+}
+
